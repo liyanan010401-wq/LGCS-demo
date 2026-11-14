@@ -1,0 +1,2114 @@
+[
+  {
+    "disease": 0,
+    "B": 40,
+    "library_ids": [
+      "pool-phantom-054",
+      "pool-phantom-050",
+      "pool-phantom-019",
+      "pool-phantom-030",
+      "pool-phantom-063",
+      "pool-phantom-006",
+      "pool-phantom-047",
+      "pool-phantom-018",
+      "pool-phantom-031",
+      "pool-phantom-071",
+      "pool-phantom-035",
+      "pool-phantom-070",
+      "pool-phantom-010",
+      "pool-phantom-014",
+      "pool-phantom-022",
+      "pool-phantom-011",
+      "pool-phantom-051",
+      "pool-phantom-003",
+      "pool-phantom-043",
+      "pool-phantom-039",
+      "pool-phantom-073",
+      "pool-phantom-028",
+      "pool-phantom-072",
+      "pool-phantom-056",
+      "pool-phantom-016",
+      "pool-phantom-036",
+      "pool-phantom-012",
+      "pool-phantom-040",
+      "pool-phantom-068",
+      "pool-phantom-033",
+      "pool-phantom-069",
+      "pool-phantom-000",
+      "pool-phantom-004",
+      "pool-phantom-001",
+      "pool-phantom-049",
+      "pool-phantom-053",
+      "pool-phantom-048",
+      "pool-phantom-020",
+      "pool-phantom-021",
+      "pool-phantom-032"
+    ],
+    "query_contexts": [
+      {
+        "query_id": "query-phantom-000",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-056",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-006",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-022",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-056",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-019",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-047",
+            "pool-phantom-048",
+            "pool-phantom-056",
+            "pool-phantom-070",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-001",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-000",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-035",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-056"
+          ],
+          "random": [
+            "pool-phantom-000",
+            "pool-phantom-019",
+            "pool-phantom-032",
+            "pool-phantom-033",
+            "pool-phantom-035",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-063",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-000",
+            "pool-phantom-011",
+            "pool-phantom-016",
+            "pool-phantom-035",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-051",
+            "pool-phantom-056",
+            "pool-phantom-071"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-002",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-004",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-006",
+            "pool-phantom-012",
+            "pool-phantom-028",
+            "pool-phantom-039",
+            "pool-phantom-048",
+            "pool-phantom-051",
+            "pool-phantom-054",
+            "pool-phantom-056",
+            "pool-phantom-069",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-000",
+            "pool-phantom-006",
+            "pool-phantom-012",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-003",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-003",
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-011",
+            "pool-phantom-012",
+            "pool-phantom-019",
+            "pool-phantom-028",
+            "pool-phantom-036",
+            "pool-phantom-047",
+            "pool-phantom-050",
+            "pool-phantom-070",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-049",
+            "pool-phantom-054",
+            "pool-phantom-071",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-004",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-039",
+            "pool-phantom-050",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-010",
+            "pool-phantom-020",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-043",
+            "pool-phantom-050"
+          ],
+          "cosine": [
+            "pool-phantom-010",
+            "pool-phantom-011",
+            "pool-phantom-012",
+            "pool-phantom-016",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-050",
+            "pool-phantom-051",
+            "pool-phantom-068",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-005",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-040",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-018",
+            "pool-phantom-020",
+            "pool-phantom-031",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-068"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-012",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-040",
+            "pool-phantom-051",
+            "pool-phantom-071",
+            "pool-phantom-073"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-006",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-018",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-016",
+            "pool-phantom-019",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-035",
+            "pool-phantom-039",
+            "pool-phantom-049",
+            "pool-phantom-051",
+            "pool-phantom-056",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-003",
+            "pool-phantom-016",
+            "pool-phantom-019",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-070",
+            "pool-phantom-071",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-007",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-049",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-004",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-039",
+            "pool-phantom-053",
+            "pool-phantom-054",
+            "pool-phantom-069",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-068",
+            "pool-phantom-069"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-008",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-004",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-020",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-056"
+          ],
+          "random": [
+            "pool-phantom-011",
+            "pool-phantom-012",
+            "pool-phantom-016",
+            "pool-phantom-020",
+            "pool-phantom-028",
+            "pool-phantom-030",
+            "pool-phantom-050",
+            "pool-phantom-051",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ],
+          "cosine": [
+            "pool-phantom-000",
+            "pool-phantom-011",
+            "pool-phantom-020",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-056",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-009",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-010",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-021",
+            "pool-phantom-033",
+            "pool-phantom-053",
+            "pool-phantom-056",
+            "pool-phantom-070"
+          ],
+          "random": [
+            "pool-phantom-010",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-043",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-068"
+          ],
+          "cosine": [
+            "pool-phantom-006",
+            "pool-phantom-018",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-035",
+            "pool-phantom-047",
+            "pool-phantom-053",
+            "pool-phantom-056",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-010",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-049",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-019",
+            "pool-phantom-020",
+            "pool-phantom-035",
+            "pool-phantom-039",
+            "pool-phantom-040",
+            "pool-phantom-053",
+            "pool-phantom-056",
+            "pool-phantom-063",
+            "pool-phantom-068",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-068",
+            "pool-phantom-069"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-011",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-000",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-056",
+            "pool-phantom-069"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-006",
+            "pool-phantom-020",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-036",
+            "pool-phantom-047",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-069"
+          ],
+          "cosine": [
+            "pool-phantom-000",
+            "pool-phantom-011",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-056",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-012",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-020",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-039",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-068"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-006",
+            "pool-phantom-020",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-033",
+            "pool-phantom-048",
+            "pool-phantom-063",
+            "pool-phantom-071",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-010",
+            "pool-phantom-011",
+            "pool-phantom-014",
+            "pool-phantom-020",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-068",
+            "pool-phantom-071"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-013",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-006",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-040",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-056"
+          ],
+          "random": [
+            "pool-phantom-000",
+            "pool-phantom-003",
+            "pool-phantom-021",
+            "pool-phantom-030",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-051",
+            "pool-phantom-056",
+            "pool-phantom-068",
+            "pool-phantom-069"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-033",
+            "pool-phantom-035",
+            "pool-phantom-047",
+            "pool-phantom-049",
+            "pool-phantom-053",
+            "pool-phantom-054"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-014",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-049",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-012",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-039",
+            "pool-phantom-048",
+            "pool-phantom-051",
+            "pool-phantom-056",
+            "pool-phantom-070",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-068",
+            "pool-phantom-069"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-015",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-049"
+          ],
+          "random": [
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-020",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-051",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-021",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-047",
+            "pool-phantom-049",
+            "pool-phantom-051",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-016",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-004",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-039",
+            "pool-phantom-043",
+            "pool-phantom-056"
+          ],
+          "random": [
+            "pool-phantom-010",
+            "pool-phantom-019",
+            "pool-phantom-020",
+            "pool-phantom-028",
+            "pool-phantom-033",
+            "pool-phantom-047",
+            "pool-phantom-048",
+            "pool-phantom-049",
+            "pool-phantom-051",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-010",
+            "pool-phantom-028",
+            "pool-phantom-047",
+            "pool-phantom-056",
+            "pool-phantom-069",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-017",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-006",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-030",
+            "pool-phantom-049",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-004",
+            "pool-phantom-019",
+            "pool-phantom-028",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-035",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-063",
+            "pool-phantom-069"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-006",
+            "pool-phantom-012",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-047",
+            "pool-phantom-049",
+            "pool-phantom-051",
+            "pool-phantom-070",
+            "pool-phantom-073"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-018",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-031",
+            "pool-phantom-048",
+            "pool-phantom-056",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-006",
+            "pool-phantom-010",
+            "pool-phantom-016",
+            "pool-phantom-020",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-056",
+            "pool-phantom-063",
+            "pool-phantom-069"
+          ],
+          "cosine": [
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-047",
+            "pool-phantom-048",
+            "pool-phantom-051",
+            "pool-phantom-053",
+            "pool-phantom-056",
+            "pool-phantom-070"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-019",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-010",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-054"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-006",
+            "pool-phantom-010",
+            "pool-phantom-016",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-028",
+            "pool-phantom-030",
+            "pool-phantom-068",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-003",
+            "pool-phantom-010",
+            "pool-phantom-016",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-069"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-020",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-036",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-004",
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-019",
+            "pool-phantom-022",
+            "pool-phantom-032",
+            "pool-phantom-047",
+            "pool-phantom-048",
+            "pool-phantom-049",
+            "pool-phantom-050"
+          ],
+          "cosine": [
+            "pool-phantom-011",
+            "pool-phantom-012",
+            "pool-phantom-016",
+            "pool-phantom-030",
+            "pool-phantom-036",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-068",
+            "pool-phantom-071",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-021",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-016",
+            "pool-phantom-021",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-004",
+            "pool-phantom-006",
+            "pool-phantom-014",
+            "pool-phantom-021",
+            "pool-phantom-032",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-051",
+            "pool-phantom-054"
+          ],
+          "cosine": [
+            "pool-phantom-000",
+            "pool-phantom-011",
+            "pool-phantom-012",
+            "pool-phantom-016",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-054",
+            "pool-phantom-070",
+            "pool-phantom-071"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-022",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-010",
+            "pool-phantom-012",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-056",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-010",
+            "pool-phantom-028",
+            "pool-phantom-031",
+            "pool-phantom-040",
+            "pool-phantom-047",
+            "pool-phantom-049",
+            "pool-phantom-050",
+            "pool-phantom-051",
+            "pool-phantom-053",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-010",
+            "pool-phantom-011",
+            "pool-phantom-019",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-036",
+            "pool-phantom-047",
+            "pool-phantom-056",
+            "pool-phantom-068",
+            "pool-phantom-069"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-023",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-010",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-049",
+            "pool-phantom-069",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-000",
+            "pool-phantom-003",
+            "pool-phantom-012",
+            "pool-phantom-018",
+            "pool-phantom-020",
+            "pool-phantom-031",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-068",
+            "pool-phantom-071"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-010",
+            "pool-phantom-019",
+            "pool-phantom-021",
+            "pool-phantom-049",
+            "pool-phantom-054",
+            "pool-phantom-069",
+            "pool-phantom-070",
+            "pool-phantom-073"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "disease": 1,
+    "B": 40,
+    "library_ids": [
+      "pool-phantom-014",
+      "pool-phantom-022",
+      "pool-phantom-072",
+      "pool-phantom-066",
+      "pool-phantom-040",
+      "pool-phantom-008",
+      "pool-phantom-050",
+      "pool-phantom-060",
+      "pool-phantom-024",
+      "pool-phantom-018",
+      "pool-phantom-044",
+      "pool-phantom-048",
+      "pool-phantom-036",
+      "pool-phantom-034",
+      "pool-phantom-064",
+      "pool-phantom-030",
+      "pool-phantom-038",
+      "pool-phantom-028",
+      "pool-phantom-032",
+      "pool-phantom-020",
+      "pool-phantom-067",
+      "pool-phantom-041",
+      "pool-phantom-053",
+      "pool-phantom-025",
+      "pool-phantom-003",
+      "pool-phantom-027",
+      "pool-phantom-063",
+      "pool-phantom-035",
+      "pool-phantom-009",
+      "pool-phantom-017",
+      "pool-phantom-007",
+      "pool-phantom-077",
+      "pool-phantom-057",
+      "pool-phantom-037",
+      "pool-phantom-015",
+      "pool-phantom-055",
+      "pool-phantom-023",
+      "pool-phantom-001",
+      "pool-phantom-059",
+      "pool-phantom-073"
+    ],
+    "query_contexts": [
+      {
+        "query_id": "query-phantom-000",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-017",
+            "pool-phantom-027",
+            "pool-phantom-032",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-055",
+            "pool-phantom-060",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-038",
+            "pool-phantom-040",
+            "pool-phantom-059",
+            "pool-phantom-073",
+            "pool-phantom-077"
+          ],
+          "cosine": [
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-023",
+            "pool-phantom-032",
+            "pool-phantom-037",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-060",
+            "pool-phantom-064",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-001",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-008",
+            "pool-phantom-023",
+            "pool-phantom-027",
+            "pool-phantom-037",
+            "pool-phantom-040",
+            "pool-phantom-041",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-036",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-057",
+            "pool-phantom-064",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-008",
+            "pool-phantom-009",
+            "pool-phantom-015",
+            "pool-phantom-023",
+            "pool-phantom-040",
+            "pool-phantom-041",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-002",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-009",
+            "pool-phantom-014",
+            "pool-phantom-025",
+            "pool-phantom-038",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-059",
+            "pool-phantom-060",
+            "pool-phantom-067",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-017",
+            "pool-phantom-027",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-037",
+            "pool-phantom-041",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-064",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-003",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-003",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-009",
+            "pool-phantom-020",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-037",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-066",
+            "pool-phantom-077"
+          ],
+          "cosine": [
+            "pool-phantom-003",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-027",
+            "pool-phantom-037",
+            "pool-phantom-038",
+            "pool-phantom-044",
+            "pool-phantom-057",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-004",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-024",
+            "pool-phantom-027",
+            "pool-phantom-032",
+            "pool-phantom-055",
+            "pool-phantom-060",
+            "pool-phantom-063",
+            "pool-phantom-067",
+            "pool-phantom-072"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-017",
+            "pool-phantom-018",
+            "pool-phantom-025",
+            "pool-phantom-035",
+            "pool-phantom-040",
+            "pool-phantom-048"
+          ],
+          "cosine": [
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-023",
+            "pool-phantom-024",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-037",
+            "pool-phantom-053",
+            "pool-phantom-064",
+            "pool-phantom-066"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-005",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-057",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-009",
+            "pool-phantom-015",
+            "pool-phantom-017",
+            "pool-phantom-022",
+            "pool-phantom-024",
+            "pool-phantom-034",
+            "pool-phantom-041",
+            "pool-phantom-048",
+            "pool-phantom-060",
+            "pool-phantom-063"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-008",
+            "pool-phantom-018",
+            "pool-phantom-037",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-057",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-006",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-015",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-034",
+            "pool-phantom-036",
+            "pool-phantom-038",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-059",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-003",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-023",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-050"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-007",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-007",
+            "pool-phantom-024",
+            "pool-phantom-025",
+            "pool-phantom-030",
+            "pool-phantom-035",
+            "pool-phantom-038",
+            "pool-phantom-057",
+            "pool-phantom-060",
+            "pool-phantom-067",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-059",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-008",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-020",
+            "pool-phantom-025",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-055",
+            "pool-phantom-060",
+            "pool-phantom-063",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-009",
+            "pool-phantom-015",
+            "pool-phantom-017",
+            "pool-phantom-020",
+            "pool-phantom-025",
+            "pool-phantom-032",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-066",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-020",
+            "pool-phantom-024",
+            "pool-phantom-025",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-053",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-009",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-018",
+            "pool-phantom-025",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-044",
+            "pool-phantom-053",
+            "pool-phantom-064"
+          ],
+          "random": [
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-025",
+            "pool-phantom-027",
+            "pool-phantom-030",
+            "pool-phantom-037",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-057",
+            "pool-phantom-063"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-059",
+            "pool-phantom-060",
+            "pool-phantom-064"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-010",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-017",
+            "pool-phantom-028",
+            "pool-phantom-036",
+            "pool-phantom-038",
+            "pool-phantom-041",
+            "pool-phantom-057",
+            "pool-phantom-059",
+            "pool-phantom-063",
+            "pool-phantom-064",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-059",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-011",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-023",
+            "pool-phantom-025",
+            "pool-phantom-037",
+            "pool-phantom-050",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-017",
+            "pool-phantom-030",
+            "pool-phantom-034",
+            "pool-phantom-037",
+            "pool-phantom-044",
+            "pool-phantom-053",
+            "pool-phantom-057",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-009",
+            "pool-phantom-023",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-041",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-012",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-020",
+            "pool-phantom-024",
+            "pool-phantom-027",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-066",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-017",
+            "pool-phantom-027",
+            "pool-phantom-032",
+            "pool-phantom-035",
+            "pool-phantom-053",
+            "pool-phantom-064",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-008",
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-020",
+            "pool-phantom-023",
+            "pool-phantom-024",
+            "pool-phantom-036",
+            "pool-phantom-037",
+            "pool-phantom-057",
+            "pool-phantom-066"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-013",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-038",
+            "pool-phantom-040",
+            "pool-phantom-053",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-008",
+            "pool-phantom-023",
+            "pool-phantom-032",
+            "pool-phantom-038",
+            "pool-phantom-040",
+            "pool-phantom-050",
+            "pool-phantom-059",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-038",
+            "pool-phantom-040",
+            "pool-phantom-041",
+            "pool-phantom-044",
+            "pool-phantom-053",
+            "pool-phantom-057",
+            "pool-phantom-064",
+            "pool-phantom-072"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-014",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-009",
+            "pool-phantom-025",
+            "pool-phantom-030",
+            "pool-phantom-035",
+            "pool-phantom-038",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-059",
+            "pool-phantom-066",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-030",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-059",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-015",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-034",
+            "pool-phantom-055",
+            "pool-phantom-063"
+          ],
+          "random": [
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-017",
+            "pool-phantom-024",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-050",
+            "pool-phantom-066",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-009",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-059",
+            "pool-phantom-064"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-016",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-034",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-017",
+            "pool-phantom-018",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-044",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-055",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-009",
+            "pool-phantom-020",
+            "pool-phantom-023",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-038",
+            "pool-phantom-060",
+            "pool-phantom-064"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-017",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-038",
+            "pool-phantom-053",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ],
+          "random": [
+            "pool-phantom-007",
+            "pool-phantom-025",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-036",
+            "pool-phantom-048",
+            "pool-phantom-055",
+            "pool-phantom-064",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-038",
+            "pool-phantom-044",
+            "pool-phantom-053",
+            "pool-phantom-057",
+            "pool-phantom-064",
+            "pool-phantom-072",
+            "pool-phantom-073"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-018",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-055",
+            "pool-phantom-063",
+            "pool-phantom-064",
+            "pool-phantom-067"
+          ],
+          "random": [
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-017",
+            "pool-phantom-018",
+            "pool-phantom-025",
+            "pool-phantom-034",
+            "pool-phantom-059",
+            "pool-phantom-064",
+            "pool-phantom-067"
+          ],
+          "cosine": [
+            "pool-phantom-017",
+            "pool-phantom-018",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-059",
+            "pool-phantom-064",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-019",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-030",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-015",
+            "pool-phantom-018",
+            "pool-phantom-023",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-032",
+            "pool-phantom-063",
+            "pool-phantom-077"
+          ],
+          "cosine": [
+            "pool-phantom-003",
+            "pool-phantom-015",
+            "pool-phantom-030",
+            "pool-phantom-032",
+            "pool-phantom-037",
+            "pool-phantom-041",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-060",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-020",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-009",
+            "pool-phantom-027",
+            "pool-phantom-030",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-060",
+            "pool-phantom-072",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-007",
+            "pool-phantom-009",
+            "pool-phantom-018",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-030",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-055"
+          ],
+          "cosine": [
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-027",
+            "pool-phantom-036",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-057",
+            "pool-phantom-060",
+            "pool-phantom-072",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-021",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-017",
+            "pool-phantom-027",
+            "pool-phantom-040",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-060",
+            "pool-phantom-073",
+            "pool-phantom-077"
+          ],
+          "random": [
+            "pool-phantom-003",
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-023",
+            "pool-phantom-027",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-053",
+            "pool-phantom-060"
+          ],
+          "cosine": [
+            "pool-phantom-008",
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-053",
+            "pool-phantom-057",
+            "pool-phantom-060",
+            "pool-phantom-066",
+            "pool-phantom-077"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-022",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-007",
+            "pool-phantom-008",
+            "pool-phantom-014",
+            "pool-phantom-022",
+            "pool-phantom-023",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-037",
+            "pool-phantom-050",
+            "pool-phantom-055"
+          ],
+          "random": [
+            "pool-phantom-018",
+            "pool-phantom-025",
+            "pool-phantom-034",
+            "pool-phantom-041",
+            "pool-phantom-044",
+            "pool-phantom-048",
+            "pool-phantom-050",
+            "pool-phantom-055",
+            "pool-phantom-057",
+            "pool-phantom-073"
+          ],
+          "cosine": [
+            "pool-phantom-017",
+            "pool-phantom-018",
+            "pool-phantom-023",
+            "pool-phantom-025",
+            "pool-phantom-028",
+            "pool-phantom-035",
+            "pool-phantom-036",
+            "pool-phantom-037",
+            "pool-phantom-038",
+            "pool-phantom-050"
+          ]
+        }
+      },
+      {
+        "query_id": "query-phantom-023",
+        "k": 10,
+        "selected": {
+          "graph": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-007",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-022",
+            "pool-phantom-027",
+            "pool-phantom-034",
+            "pool-phantom-050",
+            "pool-phantom-057"
+          ],
+          "random": [
+            "pool-phantom-001",
+            "pool-phantom-008",
+            "pool-phantom-009",
+            "pool-phantom-017",
+            "pool-phantom-024",
+            "pool-phantom-034",
+            "pool-phantom-048",
+            "pool-phantom-057",
+            "pool-phantom-063",
+            "pool-phantom-072"
+          ],
+          "cosine": [
+            "pool-phantom-001",
+            "pool-phantom-003",
+            "pool-phantom-014",
+            "pool-phantom-018",
+            "pool-phantom-020",
+            "pool-phantom-027",
+            "pool-phantom-028",
+            "pool-phantom-037",
+            "pool-phantom-040",
+            "pool-phantom-057"
+          ]
+        }
+      }
+    ]
+  }
+]

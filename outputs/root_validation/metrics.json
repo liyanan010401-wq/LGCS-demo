@@ -1,0 +1,55 @@
+{
+  "algorithm": "LGCS",
+  "status": "synthetic_smoke_test_only",
+  "predictor": "deterministic_kernel_demo_not_TabICL",
+  "source_training_loss": [
+    1.5448470910390217,
+    1.5108377536137898,
+    1.444074312845866,
+    1.3766158819198608,
+    1.3623645106951396
+  ],
+  "source_rank": 64,
+  "feature_shape": [
+    24,
+    40
+  ],
+  "predictions_shape": [
+    24,
+    2
+  ],
+  "label_budget_per_disease": 40,
+  "context_rows": 10,
+  "source_model_unchanged_in_target": true,
+  "full_library_max_probability_delta": 0.0,
+  "synthetic_AP_by_attribute": {
+    "graph": [
+      1.0,
+      0.7968126780626781
+    ],
+    "random": [
+      0.9493686868686868,
+      0.8353495839908884
+    ],
+    "cosine": [
+      0.919772126022126,
+      0.873560236060236
+    ],
+    "full": [
+      0.8069516132016131,
+      0.9324647030529383
+    ]
+  },
+  "empty_graphs": {
+    "source": 20,
+    "pool": 15,
+    "query": 3
+  },
+  "elapsed_seconds": 4.098542700055987,
+  "real_dataset_evaluation": false,
+  "official_SIGraph_or_TabICL_reproduction": false,
+  "versions": {
+    "torch": "2.10.0+cpu",
+    "numpy": "2.3.5"
+  }
+}

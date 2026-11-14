@@ -1,0 +1,14 @@
+{
+  "seed": 20261030,
+  "source_epochs": 5,
+  "batch_size": 16,
+  "learning_rate": 0.003,
+  "max_nodes": 64,
+  "saliency_threshold": 0.58,
+  "alpha": 0.7,
+  "beta": 0.25,
+  "library_per_class": 20,
+  "context_per_class": 5,
+  "predictor": "deterministic_kernel_demo_not_TabICL",
+  "data": "data/sample.npz"
+}

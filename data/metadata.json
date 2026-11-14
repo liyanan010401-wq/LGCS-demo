@@ -1,0 +1,19 @@
+{
+  "kind": "synthetic smoke-test data, not EyePACS/RFMiD",
+  "seed": 20261030,
+  "generator": "data/generate_data.py",
+  "license": "CC0-1.0 for these generated arrays only",
+  "units": {
+    "images": "RGB in [0,1]",
+    "grid": "32x32 pixels",
+    "grades": "synthetic ordinal 0..4",
+    "labels": "two independent synthetic binary attributes, not clinical diagnoses"
+  },
+  "splits": {
+    "source": 96,
+    "pool": 80,
+    "query": 24
+  },
+  "all_identifiers_unique": true,
+  "sha256": "2081acab5f2d5c88c4a8c3aa0ac0c758bf2b76d2f154ec3e235232bf8170b4af"
+}
